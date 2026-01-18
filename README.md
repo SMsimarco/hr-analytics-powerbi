@@ -1,3 +1,4 @@
+![](images/dashboard-overview.png)
 ## HR Analytics – Employee Attrition Analysis
 
 This project analyzes employee attrition using Power BI, focusing on:
