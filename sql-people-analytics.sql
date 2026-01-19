@@ -1,4 +1,16 @@
-
+CREATE TABLE hr_data (
+    EmployeeNumber INT,
+    JobRole VARCHAR(100),
+    MonthlyIncome INT,
+    Attrition VARCHAR(10),
+    OverTime VARCHAR(10),
+    JobSatisfaction INT,
+    Gender VARCHAR(20),
+    Department VARCHAR(100),
+    EducationField VARCHAR(100),
+    YearsAtCompany INT,
+    YearsSinceLastPromotion INT
+);
 -- 1. Attrition Rate by Job Role
 -- Identifica qué puestos tienen mayor fuga de talento.
 SELECT 
