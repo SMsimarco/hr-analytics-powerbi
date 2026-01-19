@@ -16,5 +16,5 @@ This project analyzes employee attrition using Power BI, focusing on:
 - Power BI
 - Data modeling
 
-### SQL Analysis: 
+### SQL Analysis 
 I used advanced SQL queries (Window functions, CASE statements, and Aggregations) to extract insights on attrition patterns, gender pay gaps, and employee burnout risks. This ensures a scalable data approach beyond visual tools.
